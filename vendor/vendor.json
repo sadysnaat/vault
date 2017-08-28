@@ -1197,10 +1197,10 @@
 			"revisionTime": "2017-07-10T09:56:15Z"
 		},
 		{
-			"checksumSHA1": "az4cLSQCZTxkknjFm6b+iHBbf6A=",
+			"checksumSHA1": "gPuHq0UytpuYPb2YWmFVb22Twcc=",
 			"path": "github.com/mitchellh/cli",
-			"revision": "d10eaaaf78c45b8e959311791db9fae4530a61bf",
-			"revisionTime": "2017-07-17T22:17:35Z"
+			"revision": "0ce7cd515f64496ee660ab19f6bbf373945d3af0",
+			"revisionTime": "2017-08-24T19:02:09Z"
 		},
 		{
 			"checksumSHA1": "+p4JY4wmFQAppCdlrJ8Kxybmht8=",
@@ -1293,10 +1293,10 @@
 			"revisionTime": "2017-05-05T04:36:39Z"
 		},
 		{
-			"checksumSHA1": "6OEUkwOM0qgI6YxR+BDEn6YMvpU=",
+			"checksumSHA1": "rTNABfFJ9wtLQRH8uYNkEZGQOrY=",
 			"path": "github.com/posener/complete",
-			"revision": "e8d6fef54b6283f8bd3fbcb4a7de8884eb540293",
-			"revisionTime": "2017-05-27T17:24:47Z"
+			"revision": "2100d1b06c06462a8a47bfc41a7f24a5d60a1420",
+			"revisionTime": "2017-08-25T06:44:15Z"
 		},
 		{
 			"checksumSHA1": "NB7uVS0/BJDmNu68vPAlbrq4TME=",
