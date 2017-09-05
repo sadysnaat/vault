@@ -1155,6 +1155,12 @@
 			"revisionTime": "2017-06-28T15:29:38Z"
 		},
 		{
+			"checksumSHA1": "uulQHQ7IsRKqDudBC8Go9J0gtAc=",
+			"path": "github.com/kr/text",
+			"revision": "7cafcd837844e784b526369c9bce262804aebc60",
+			"revisionTime": "2016-05-04T02:26:26Z"
+		},
+		{
 			"checksumSHA1": "ZAj/o03zG8Ui4mZ4XmzU4yyKC04=",
 			"path": "github.com/lib/pq",
 			"revision": "dd1fe2071026ce53f36a39112e645b4d4f5793a4",
